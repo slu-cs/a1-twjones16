@@ -8,5 +8,11 @@
 .text-blocks{
   text-indent: 70px;
   padding-right: 50%
-  
+
+}
+.container > * {
+    display: inline-block;
+}
+.my-link{
+  text-decoration: none
 }
