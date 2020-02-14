@@ -15,5 +15,5 @@ Overall comments on grading questions:
 
 3) Are the pages tolerably styled with Bootstrap?
     - For the most part, yes.
-    - Text could use a bit more margin/padding in some places.
-    - The header & buttons make sort of surprising color combinations, particularly on the Registration page.
+    - Text could use a bit more margin/padding in most places. It feels a little crowded.
+    - The header & buttons make surprising color combinations, particularly on the Registration page.
